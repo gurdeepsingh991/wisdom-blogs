@@ -1,0 +1,144 @@
+{
+    "id": 6,
+    "date": "2025-04-04T14:53:20",
+    "date_gmt": "2025-04-04T13:53:20",
+    "guid": {
+        "rendered": "https:\/\/megurdeep.wordpress.com\/2025\/04\/04\/the-art-of-connection\/"
+    },
+    "modified": "2025-04-04T14:53:20",
+    "modified_gmt": "2025-04-04T13:53:20",
+    "slug": "the-art-of-connection",
+    "status": "publish",
+    "type": "post",
+    "link": "https:\/\/megurdeep.wordpress.com\/2025\/04\/04\/the-art-of-connection\/",
+    "title": {
+        "rendered": "The Art of&nbsp;Connection"
+    },
+    "content": {
+        "rendered": "\n<p>Welcome to WordPress! This is a sample post. Edit or delete it to take the first step in your blogging journey. To add more content here, click the small plus icon at the top left corner. There, you will find an existing selection of WordPress blocks and patterns, something to suit your every need for content creation. And don\u2019t forget to check out the List View: click the icon a few spots to the right of the plus icon and you\u2019ll get a tidy, easy-to-view list of the blocks and patterns in your post.<\/p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>In the ever-evolving world, the art of forging genuine connections remains timeless. Whether it\u2019s with colleagues, clients, or partners, establishing a genuine rapport paves the way for collaborative success.<\/p>\n",
+        "protected": false
+    },
+    "author": 264317282,
+    "featured_media": 10,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+        "advanced_seo_description": "",
+        "jetpack_seo_html_title": "",
+        "jetpack_seo_noindex": false,
+        "_coblocks_attr": "",
+        "_coblocks_dimensions": "",
+        "_coblocks_responsive_height": "",
+        "_coblocks_accordion_ie_support": "",
+        "jetpack_post_was_ever_published": false,
+        "reader_suggested_tags": "",
+        "_jetpack_newsletter_access": "",
+        "_jetpack_dont_email_post_to_subs": false,
+        "_jetpack_newsletter_tier_id": 0,
+        "_jetpack_memberships_contains_paywalled_content": false,
+        "_jetpack_memberships_contains_paid_content": false,
+        "footnotes": "",
+        "jetpack_publicize_message": "",
+        "jetpack_publicize_feature_enabled": true,
+        "jetpack_social_post_already_shared": false,
+        "jetpack_social_options": {
+            "image_generator_settings": {
+                "template": "highway",
+                "enabled": false
+            },
+            "version": 2
+        }
+    },
+    "categories": [
+        1
+    ],
+    "tags": [],
+    "class_list": [
+        "post-6",
+        "post",
+        "type-post",
+        "status-publish",
+        "format-standard",
+        "has-post-thumbnail",
+        "hentry",
+        "category-uncategorized"
+    ],
+    "jetpack_featured_media_url": "https:\/\/megurdeep.wordpress.com\/wp-content\/uploads\/2025\/04\/0b92d-pexels-andreea-ch-371539-3371410.jpg",
+    "jetpack_publicize_connections": [],
+    "jetpack_shortlink": "https:\/\/wp.me\/pgsEdG-6",
+    "jetpack_sharing_enabled": false,
+    "jetpack_likes_enabled": null,
+    "jetpack-related-posts": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/posts\/6"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/posts"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/types\/post"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/users\/264317282"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/comments?post=6"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 0,
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/posts\/6\/revisions"
+            }
+        ],
+        "wp:featuredmedia": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/media\/10"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/media?parent=6"
+            }
+        ],
+        "wp:term": [
+            {
+                "taxonomy": "category",
+                "embeddable": true,
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/categories?post=6"
+            },
+            {
+                "taxonomy": "post_tag",
+                "embeddable": true,
+                "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/megurdeep.wordpress.com\/tags?post=6"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
